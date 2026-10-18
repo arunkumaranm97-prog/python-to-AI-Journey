@@ -1,29 +1,26 @@
-# Python to AI — My Learning Journey
+# Python to AI — My Learning Journey 🐍
 
 ## About
-This repository documents my journey of learning Python programming, data analysis, and Artificial Intelligence.
-
-## Topics Covered
-- Python fundamentals and control flow
-- Functions and Object-Oriented Programming
-- Modules and exception handling
-- File handling and debugging
-- NumPy arrays and Boolean filtering
-
-## Goal
-To build a personal JARVIS-style AI assistant with voice interaction, intelligent conversations, memory, and useful task automation.
+This repository documents my journey of learning Python programming and Artificial Intelligence.
 
 ## Current Progress
-Learning Python and NumPy while strengthening my programming fundamentals.
+- Python fundamentals
+- Conditions and loops
+- Functions and Object-Oriented Programming
+- Git and GitHub basics
+
+## Future Learning Goals
+- Exception handling and file handling
+- NumPy and pandas
+- Data visualization
+- AI and Machine Learning
+- Building a personal JARVIS-style AI assistant
 
 ## Tools
 - Python
 - Visual Studio Code
-- Git and GitHub
-- NumPy
+- Git
+- GitHub
 
-## Future Plans
-- Learn pandas and data visualization
-- Build a basic voice assistant
-- Integrate an AI model
-- Add persistent memory and useful tools
+## Goal
+To strengthen my programming skills and gradually build useful AI projects while documenting my learning journey.
