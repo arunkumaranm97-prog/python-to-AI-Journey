@@ -8,3 +8,6 @@ print("Sum of the array:", np.sum(arr))
 arr = arr.reshape(2,3)
 print("Reshaped array:")
 print(arr)  
+result=arr[arr>4]
+print("Elements greater than 4:")
+print(result)
