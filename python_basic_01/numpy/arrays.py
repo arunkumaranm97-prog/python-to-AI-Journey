@@ -1,0 +1,10 @@
+import numpy as np
+arr = np.array([1, 2, 3, 4, 5, 6])
+print(arr)
+print("Shape of the array:", arr.shape)
+print("Maximum value in the array:", np.max(arr))
+print("Minimum value in the array:", np.min(arr))
+print("Sum of the array:", np.sum(arr)) 
+arr = arr.reshape(2,3)
+print("Reshaped array:")
+print(arr)  
